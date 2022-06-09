@@ -19,6 +19,8 @@ The advantages of refactoring the code will help find discrepancies within the c
 
 The advantage of refactoring with the VBA script was that all the steps were already in it, therefor I was aware of the changes needed.  This will make it easy for Steve to read it and make any updates. A disadvantage it was time consuming.
 
+![this is an image](https://github.com/hildavaz/Stock_Analysis/blob/main/Resources/RefacorVBAcode.PNG)
+![this is an image](https://github.com/hildavaz/Stock_Analysis/blob/main/Resources/RefacorVBAcode.1.PNG)
 
 
 
