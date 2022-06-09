@@ -9,3 +9,5 @@ As it shows on the imagines below the Green Energy Stocks heave a large percenta
 
 ![this is an image] (https://github.com/hildavaz/Stock_Analysis/blob/main/Resources/VBA_Challenge_2017.png)
 
+![this is an image](https://github.com/hildavaz/Stock_Analysis/blob/main/Resources/VBA_Challenge_2018.png)
+
